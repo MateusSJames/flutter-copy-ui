@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto para clonar a UI fornecida no link: https://www.figma.com/file/3saLcPIjZnnMcpS56AoYxL/Teste-Out?type=design&node-id=1-697&mode=design&t=koGO3GYdIZv9cFVR-0
+Para rodar esse projeto, execute o comando "flutter pub get" para baixar as dependências no pubspac.yaml.
 
-A few resources to get you started if this is your first Flutter project:
+## Observações
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Nesse projeto criamos apenas a função de editar.
+- Na função "editar seção sobre" ao invés de criar dropbuttons, eu criei textfields com formatadores de data.
